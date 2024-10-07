@@ -1,0 +1,21 @@
+2024-09-30 21:44:34,260 :INFO : test_register_logout :Clicking on register link
+2024-09-30 21:44:34,700 :INFO : test_register_logout :Choosing gender of user
+2024-09-30 21:44:35,128 :INFO : test_register_logout :Entering first name
+2024-09-30 21:44:35,348 :INFO : test_register_logout :Entering last name
+2024-09-30 21:44:35,603 :INFO : test_register_logout :Entering Email id
+2024-09-30 21:44:35,828 :INFO : test_register_logout :Creating new password
+2024-09-30 21:44:36,040 :INFO : test_register_logout :Confirming new password
+2024-09-30 21:44:36,810 :INFO : test_register_logout :Clicking on register link
+2024-09-30 21:44:36,810 :INFO : test_register_logout :Clicking on register link
+2024-09-30 21:44:36,984 :INFO : test_register_logout :Choosing gender of user
+2024-09-30 21:44:36,984 :INFO : test_register_logout :Choosing gender of user
+2024-09-30 21:44:37,185 :INFO : test_register_logout :Entering first name
+2024-09-30 21:44:37,185 :INFO : test_register_logout :Entering first name
+2024-09-30 21:44:37,399 :INFO : test_register_logout :Entering last name
+2024-09-30 21:44:37,399 :INFO : test_register_logout :Entering last name
+2024-09-30 21:44:37,628 :INFO : test_register_logout :Entering Email id
+2024-09-30 21:44:37,628 :INFO : test_register_logout :Entering Email id
+2024-09-30 21:44:37,824 :INFO : test_register_logout :Creating new password
+2024-09-30 21:44:37,824 :INFO : test_register_logout :Creating new password
+2024-09-30 21:44:38,023 :INFO : test_register_logout :Confirming new password
+2024-09-30 21:44:38,023 :INFO : test_register_logout :Confirming new password
