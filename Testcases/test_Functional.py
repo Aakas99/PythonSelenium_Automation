@@ -29,10 +29,10 @@ class TestFunctionality_testcase(BaseClass):
         log.info("Creating new password")
         Register.Confirmpassword().send_keys(getData["Password"])
         log.info("Confirming new password")
-        #Register.Registerion().click()
-        #Register.Continue_button().click()
+        Register.Registerion().click()
+        Register.Continue_button().click()
         #homepage = Homepage(self.driver)
-        #
+        
         #homepage.logout().click()
     
 
